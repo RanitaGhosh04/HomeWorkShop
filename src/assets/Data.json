@@ -1,0 +1,233 @@
+{
+    "categories": [
+      {
+        "name": "Electronics",
+        "products": [
+          {
+            "image": "electronics/product1.jpg",
+            "name": "Smartphone X",
+            "quantity_available": 50,
+            "price": 699.99,
+            "rating": 4.5
+          },
+          {
+            "image": "electronics/product2.jpg",
+            "name": "Laptop Y",
+            "quantity_available": 30,
+            "price": 1299.99,
+            "rating": 4.8
+          }
+        ]
+      },
+      {
+        "name": "Clothing",
+        "products": [
+          {
+            "image": "clothing/product1.jpg",
+            "name": "Men's Jacket",
+            "quantity_available": 100,
+            "price": 89.99,
+            "rating": 4.2
+          },
+          {
+            "image": "clothing/product2.jpg",
+            "name": "Women's Dress",
+            "quantity_available": 80,
+            "price": 79.99,
+            "rating": 4.6
+          }
+        ]
+      },
+      {
+        "name": "Books",
+        "products": [
+          {
+            "image": "books/product1.jpg",
+            "name": "Fantasy Novel",
+            "quantity_available": 150,
+            "price": 14.99,
+            "rating": 4.7
+          },
+          {
+            "image": "books/product2.jpg",
+            "name": "Mystery Thriller",
+            "quantity_available": 100,
+            "price": 12.99,
+            "rating": 4.5
+          }
+        ]
+      },
+      {
+        "name": "Furniture",
+        "products": [
+          {
+            "image": "furniture/product1.jpg",
+            "name": "Wooden Chair",
+            "quantity_available": 50,
+            "price": 149.99,
+            "rating": 4.3
+          },
+          {
+            "image": "furniture/product2.jpg",
+            "name": "Coffee Table",
+            "quantity_available": 40,
+            "price": 199.99,
+            "rating": 4.8
+          }
+        ]
+      },
+      {
+        "name": "Toys",
+        "products": [
+          {
+            "image": "toys/product1.jpg",
+            "name": "Action Figure",
+            "quantity_available": 200,
+            "price": 19.99,
+            "rating": 4.6
+          },
+          {
+            "image": "toys/product2.jpg",
+            "name": "Dollhouse",
+            "quantity_available": 80,
+            "price": 49.99,
+            "rating": 4.7
+          }
+        ]
+      },
+      {
+        "name": "Sporting Goods",
+        "products": [
+          {
+            "image": "sports/product1.jpg",
+            "name": "Football",
+            "quantity_available": 120,
+            "price": 24.99,
+            "rating": 4.9
+          },
+          {
+            "image": "sports/product2.jpg",
+            "name": "Basketball",
+            "quantity_available": 150,
+            "price": 29.99,
+            "rating": 4.8
+          }
+        ]
+      },
+      {
+        "name": "Home Appliances",
+        "products": [
+          {
+            "image": "appliances/product1.jpg",
+            "name": "Coffee Maker",
+            "quantity_available": 60,
+            "price": 79.99,
+            "rating": 4.4
+          },
+          {
+            "image": "appliances/product2.jpg",
+            "name": "Vacuum Cleaner",
+            "quantity_available": 70,
+            "price": 149.99,
+            "rating": 4.7
+          }
+        ]
+      },
+      {
+        "name": "Beauty",
+        "products": [
+          {
+            "image": "beauty/product1.jpg",
+            "name": "Facial Cleanser",
+            "quantity_available": 90,
+            "price": 29.99,
+            "rating": 4.5
+          },
+          {
+            "image": "beauty/product2.jpg",
+            "name": "Hair Dryer",
+            "quantity_available": 80,
+            "price": 39.99,
+            "rating": 4.6
+          }
+        ]
+      },
+      {
+        "name": "Jewelry",
+        "products": [
+          {
+            "image": "jewelry/product1.jpg",
+            "name": "Diamond Ring",
+            "quantity_available": 20,
+            "price": 999.99,
+            "rating": 4.9
+          },
+          {
+            "image": "jewelry/product2.jpg",
+            "name": "Gold Necklace",
+            "quantity_available": 50,
+            "price": 499.99,
+            "rating": 4.8
+          }
+        ]
+      },
+      {
+        "name": "Pets",
+        "products": [
+          {
+            "image": "pets/product1.jpg",
+            "name": "Dog Bed",
+            "quantity_available": 100,
+            "price": 39.99,
+            "rating": 4.7
+          },
+          {
+            "image": "pets/product2.jpg",
+            "name": "Cat Tree",
+            "quantity_available": 70,
+            "price": 79.99,
+            "rating": 4.6
+          }
+        ]
+      },
+      {
+        "name": "Tools",
+        "products": [
+          {
+            "image": "tools/product1.jpg",
+            "name": "Power Drill",
+            "quantity_available": 50,
+            "price": 79.99,
+            "rating": 4.5
+          },
+          {
+            "image": "tools/product2.jpg",
+            "name": "Screwdriver Set",
+            "quantity_available": 100,
+            "price": 29.99,
+            "rating": 4.6
+          }
+        ]
+      },
+      {
+        "name": "Food & Beverage",
+        "products": [
+          {
+            "image": "food/product1.jpg",
+            "name": "Coffee Beans",
+            "quantity_available": 200,
+            "price": 9.99,
+            "rating": 4.8
+          },
+          {
+            "image": "food/product2.jpg",
+            "name": "Red Wine",
+            "quantity_available": 150,
+            "price": 29.99,
+            "rating": 4.7
+          }
+        ]
+      }
+    ]
+  }
+  
